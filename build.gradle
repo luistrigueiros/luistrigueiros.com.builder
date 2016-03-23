@@ -25,7 +25,6 @@ repositories {
 
 dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.4.4'
-    compile 'io.ratpack:ratpack-groovy:1.2.0'
 }
 
 mainClassName = 'blog.server'
@@ -40,10 +39,9 @@ def siteDir = "$buildDir/jbake"
 
 githubPages {
   System.setProperty('jna.nosys', 'true')
-  repoUri = 'git@github.com:luistrigueiros/blog-scaffolding.git'
-  targetBranch = 'gh-pages'
+  repoUri = 'git@github.com:luistrigueiros/luistrigueiros.github.io.git'
+  targetBranch = 'master'
   pages {
-    //from file('CNAME')
     from file("$buildDir/jbake")
   }
 }
