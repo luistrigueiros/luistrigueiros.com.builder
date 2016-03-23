@@ -46,4 +46,13 @@ githubPages {
   }
 }
 
+
+//task generateJBakeProperties(type:Copy) {
+//    from('src/main/resources') {
+//        expand(dbPath: file("$projectDir/build/cache").absolutePath)
+//    }
+//    into 'src/jbake'
+//    include '**/*.properties'
+//}
+
 publishGhPages.dependsOn jbake
