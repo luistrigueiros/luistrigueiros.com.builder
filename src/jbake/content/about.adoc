@@ -5,16 +5,19 @@ Luis Oscar
 :jbake-status: published
 
 
-== Company 123.ie [Senior Java Developer]
+== Company 123.ie / Senior Java Developer
 From May 2014 to May 2015.
 
 Part of high performance team in a leading award-winning 24x7x365 online business, doing full stack development frontend, backend services layer, and database.
+
 === Projects
+
 * WebRebrand
 * Peril Based Quote Engine
 * Devops/Operational Support
 
 === Description
+
 * Devops, support troubleshooting productions issues, with 1-2 days SLA's.
 * Implemented the new web site re-brand, with responsive single page apps, cross-browser compatibility support, end user analytics, and live chat.
 * Implemented quick prototypes and prove of concepts using Groovy.
@@ -23,16 +26,21 @@ Part of high performance team in a leading award-winning 24x7x365 online busines
 * Present ideas and proposed solutions to business needs, created prototype to index quote metadata using ElasticSearch.
 
 === Technologies
+
 JBoss/JEE, CFX, Drools, Spring, Groovy, Jenkins, AngularJS, SVN, SoapUI, Jira, Linux
 
 
-== Company PADDY POWER [Senior Software Engineer]
+== Company PADDY POWER / Senior Software Engineer
 From October 2013 to April 2014.
 Part of leading Irish bookmaker, practitioner of the best agile software development practices and continues deployment.
+
 === Projects
+
 * SingleWallet
 * FraudDasboard
+
 === Description
+
 * Develop next generation payment methods and web services, and strategic business solutions.
 * Experience securing financial transactions using cryptography; RSA asymmetric-keys, Triple DES symmetric-key, integration with OEM’s, and exposure to security awareness in business applications.
 * Developed authentication and authorization of corporate users, using “Spring Security” backed by Microsoft´s Active Directory LDAP protocol.
@@ -40,5 +48,7 @@ Part of leading Irish bookmaker, practitioner of the best agile software develop
 * Experience working with continuous delivery backed by Jenkins and the pipeline plugin, having environments provisioned on the fly in Cloud Foundry as part of the build process.
 * On the process front learn to value Agile and “Kanban” with Specification by example, and collaborative team input as means to deliver end product quality and end user satisfaction.
 * Experience applying Behavior Drive Development namely using “Thucydides”.
+
 === Technologies
+
 Java/Tomcat Spring, Spring Web Services, Spring MVC, Spring Security, Java Cryptography Architecture, Jenkins, Git, LDAP Active Directory, SoapUI, Thucydides/Jbehave, Splunk
