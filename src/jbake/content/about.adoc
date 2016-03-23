@@ -5,6 +5,33 @@ Luis Oscar
 :jbake-status: published
 
 
+I am passionate about using technical expertise, but more importantly I am passionate about help organizations to succeed and operate at high level of performance by solving and optimize business needs.
+Some of my specialties are Spring Framework, JBoss Drools, JBoss JBpm workflow engine, Apache Camel, Java, JQuery, AngularJS, SQL.
+Currently interested in reactive non blocking applications development, NoSQL data stores, and cloud namely Docker and Openshift.
+
+== Company CarTrawler / Integration Specialist
+From May 2015 to Present
+
+=== Projects
+* otaserver
+* otarobot
+
+
+=== Description
+* Currently support to core business software components, develop and extend new features following established guidelines.
+* I interface with suppliers and partners all over the globe on a technical level, and support our system users.
+* I solve issues in production and implementing new business features.
+* I identified and implemented practical solutions to old problems and taken ownership, namely of:
+ ** Tracking network IO problems in the supply chain
+ ** Managing and pruning locations data.
+ ** Automate the reporting of system wide configuration
+*I am a team player always ready to help everyone, helping model a high performance award-winning team in a rapidly growing organization.
+
+
+=== Technologies
+Java/Tomcat, Ant & Gradle, Git & SVN, SOAP, Open Travel Alliance Message Exchange Protocol(OTA),MS-SQL
+
+
 == Company 123.ie / Senior Java Developer
 From May 2014 to May 2015.
 
