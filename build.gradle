@@ -35,7 +35,9 @@ jbake {
 
 defaultTasks 'jbake'
 
-def siteDir = "$buildDir/jbake"
+ext {
+    siteDir = "$buildDir/jbake"
+}
 
 githubPages {
   System.setProperty('jna.nosys', 'true')
@@ -46,13 +48,5 @@ githubPages {
   }
 }
 
-
-//task generateJBakeProperties(type:Copy) {
-//    from('src/main/resources') {
-//        expand(dbPath: file("$projectDir/build/cache").absolutePath)
-//    }
-//    into 'src/jbake'
-//    include '**/*.properties'
-//}
 
 publishGhPages.dependsOn jbake
