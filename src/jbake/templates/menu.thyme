@@ -7,21 +7,13 @@
 	  <!-- Fixed navbar -->
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')" th:href="${rootpath}">[Luis Oscar]</a>
-        </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')" th:href="${rootpath}+'index.html'">Home</a></li>
             <li><a th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')" th:href="${rootpath}+'about.html'">About</a></li>
+            <li><a th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')" th:href="${rootpath}+'cv.html'">CV</a></li>
             <li><a th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')" th:href="${rootpath}+${config.feed_file}">Subscribe</a></li>
-            <li><a href="https://github.com/luistrigueiros">GitHub Account</a></li>
+            <li><a href="https://github.com/luistrigueiros?tab=activity">GitHub</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
