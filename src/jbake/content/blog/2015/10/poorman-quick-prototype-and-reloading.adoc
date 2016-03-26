@@ -1,0 +1,65 @@
+title=Poorman's solution to quick prototyping and code reloading
+date=2015-10-25
+type=post
+tags=blog, asciidoc
+status=published
+~~~~~~
+= Poorman's solution to quick prototyping and code reloading
+
+== The problem
+
+Sometimes it can be very handy to be able to quickly prototype code and try a quick implementation of an idea or fix without having to go through the whole cycle of build, deploy and restart the app, what typically happens on any app of significant size is that build and deploy are OK, but then the restart is lengthy since it needs to load the initial state into memory, when this cycle is lengthy, it can be a productivity killer and demotivate.
+JRebel is a very good product and makes this possible, like a breeze, but when you can't afford the license fee what do you do ? Well the following is an idea, that could be enough to get you going.
+
+== Groovy to the rescue !
+
+Use groovy, integrate groovy for the parts of the code you what to quickly prototype or change as groovy is a super set of java it will allow to have something at the end that will be easily convertible into java if your can't deploy groovy code in the end result.
+Integrating groovy is as easy as 3 steps:
+
+Make the groovy embeddeable jar available
+Use the GroovyScriptEngine to call the groovy code you whant to run
+Read back the results from the call to the groovy code
+One of the great advantages of Groovy is the excellent integration with Java and all the popular IDE's that make even possible to have debug, code completion and even refractory while you benefit of dynamic scripting.
+
+=== Step 1
+
+To materialize a bit more the previous three steps if you are building your code with Gradle, making the step one will be as simple as adding the groovy-all jar in the dependencies
+
+image::http://3.bp.blogspot.com/-Vei7gy5HSu4/Vi6HK0vbCzI/AAAAAAAAOvE/Klk9DxHiGXM/s320/screenshot.77.jpg[Step 1]
+
+=== Step 2 & 3
+
+Make the call to the to the groovy code using the GroovyScriptEngine, this is a regular java class that you create an instance and tell it where is the groovy source code to be executed:
+
+image::http://4.bp.blogspot.com/-TEOwy_yvBX0/Vi6JhmkG1XI/AAAAAAAAOvQ/_HgEdQexyMk/s320/screenshot.78.jpg[Step 2 & 3]
+
+The cool thing here is that the Groovy code been called actually implements a pure Java interface, so we can cross language boundaries using a type safe interface, from a "statically typed" to "optionally dynamically typed".
+Bellow is the Goovy code as you can see it looks a lot like Java, and you can literally copy a Java class to a Groovy class without changing any code and it will run.
+
+image::http://4.bp.blogspot.com/-ZJsALXCuupM/Vi6hlKEFLXI/AAAAAAAAOvo/QTFcOhN_02E/s320/screenshot.80.jpg[The groovy code]
+
+The following is the source directory where you can see that there is both Java and Groovy code.
+
+image::http://4.bp.blogspot.com/-Dp1HECX_J1Y/Vi6ip67qTMI/AAAAAAAAOvw/R-ti-vGaxL8/s320/screenshot.82.jpg[The package structure]
+
+The following screenshot is a sample Spring Boot application running with Intellj IDE, this sample demonstrates the idea where the RestController is written in Java and call the Groovy code using the GroovyScriptEngine, and from what you can see in the image the debugger in stopped in a breakpoint in the Groovy code.
+
+image::http://1.bp.blogspot.com/-sAp3AkiJR-U/Vi18iegm_0I/AAAAAAAAOt0/t6ygfAVC9Kw/s320/screenshot.75.jpg[Running with the debugger]
+
+
+== Conclusion
+
+Now with this setup one can do the quick prototype or fix in the groovy code, test debug and refactor and move the result in the end to java code and break away with lengthy code change cycles!
+
+=== Example solution code
+
+Example code available at my repo:
+
+https://github.com/luistrigueiros/groovy-embedding
+
+
+=== Disclaimer
+
+The opinions expressed where are my own, and subject to change, please provide examples here this is not valid and I will review and amend the text.
+Thank you stay Groovy !
+
