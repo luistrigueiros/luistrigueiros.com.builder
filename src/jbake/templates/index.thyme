@@ -5,6 +5,7 @@
 	<body onload="prettyPrint()">
 	<div id="wrap">
 		<div th:replace="menu.thyme::menu"/>
+        <div th:replace="social-buttons.thyme::social-buttons" />
 		<div class="container">
 			<div class="page-header">
 				<h1>Blog</h1>

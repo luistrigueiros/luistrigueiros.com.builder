@@ -1,7 +1,7 @@
 = About
 Luis Oscar
 2016-03-23
-:jbake-type: post
+:jbake-type: page
 :jbake-status: published
 
 
