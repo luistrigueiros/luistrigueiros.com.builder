@@ -11,4 +11,8 @@ Some of my specialties include Spring Framework, JBoss Drools, JBoss JBpm workfl
 
 Currently interested in reactive non blocking applications development, NoSQL data stores, and cloud namely Docker and Openshift.
 
-link:cv.html[Curriculum Vitae]
+== The CV
+* link:cv.html[Curriculum Vitae as HTML]
+* https://raw.githubusercontent.com/luistrigueiros/luistrigueiros.com.builder/master/src/jbake/content/cv.adoc[Curriculum Vitae as Text]
+
+This web site was create as a Gradle project using JBake and the https://github.com/luistrigueiros/luistrigueiros.com.builder[source code available]
