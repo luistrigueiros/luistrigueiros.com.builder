@@ -121,6 +121,26 @@ As web frontend it is been used by call center, customer stores and technical su
 === Technologies
 Jboss Drools, Jboss Jbpm,  Apache Camel, Spring Framework, Spring Batch Processing, Spring Security, Maven,  SpringSource STS, SVN, JSF/Icefaces
 
+
+== Company GTInformatica / Senior Developer
+From Oct. 2007 to  Oct. 2010.
+
+=== Projects
+* GT GuiaReporting, QEnergia, May. 2010
+* GT/NetPlus, Feb. 2010 - Mar. 2010
+* Outsourcing GT/ Promosoft, Nov. 2009 - Dec. 2009
+* Outsourcing GT / Vigilarme, Oct. 2009
+* OutSourcing GT/ RedCats LaRedoute, May 2008 – June 2009
+
+
+=== Description
+* Did 1
+* Did 2
+* Did 3
+
+=== Technologies
+Grails, H2 Database, BIRT, jQuery, SpringSource STS, SVN, Spring, MySQL, BIRT,Hibernate, Log4j, Maven
+
 ////
 == Company XPTO / Position Y
 From May 2014 to May 2015.
