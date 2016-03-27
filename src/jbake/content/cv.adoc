@@ -182,6 +182,26 @@ From Oct. 2007 to  Oct. 2010.
 
 |===
 
+
+== Company Vallent IBM Ireland / Java developer
+From Jun. 2006 to Set. 2007.
+
+=== Projects
+* R&D and Professional Services
+
+
+=== Description
+* Provided support and bug fix for the ServiceAssure.
+* Design and implementation of the application Diagnostics & Troubleshooting feature.
+* Develop VBA Add-In for Business Objects report filter.
+* Develop Excel VBA for excel spreadsheet validation
+* Develop ETL utility, using POI for network provisioning.
+* Testing system components for customer acceptance test.
+
+=== Technologies
+Sun Solaries, Oracle, ChangeSynergy, JSE, VBA
+
+
 ////
 == Company XPTO / Position Y
 From May 2014 to May 2015.
