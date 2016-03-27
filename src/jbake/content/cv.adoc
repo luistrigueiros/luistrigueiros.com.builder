@@ -202,6 +202,21 @@ From Jun. 2006 to Set. 2007.
 Sun Solaries, Oracle, ChangeSynergy, JSE, VBA
 
 
+== Company Qumas Ireland / Java developer
+From Nov. 2004 to Jun. 2006.
+
+=== Projects
+* QProcessCompliance
+
+=== Description
+* Provided support and bug fixing for QProcessCompliance.
+* Design and implementation of the application business rule engine based on AOP and Drools.
+* Training and mentoring of junior developers.
+* Setting up an automated build system using Luntbuild and Maven.
+
+=== Technologies
+Maven, Tomcat, Spring Framework, Drools,Oracle, JUNIT, Log4j, PVCS, Perforce
+
 ////
 == Company XPTO / Position Y
 From May 2014 to May 2015.
