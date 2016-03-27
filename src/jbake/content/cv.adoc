@@ -126,32 +126,56 @@ Jboss Drools, Jboss Jbpm,  Apache Camel, Spring Framework, Spring Batch Processi
 From Oct. 2007 to  Oct. 2010.
 
 === Projects
-* GT GuiaReporting, QEnergia, May. 2010
-* GT/NetPlus, Feb. 2010 - Mar. 2010
-* Outsourcing GT/ Promosoft, Nov. 2009 - Dec. 2009
-* Outsourcing GT / Vigilarme, Oct. 2009
-* OutSourcing GT/ RedCats LaRedoute, May 2008 – June 2009
 
-.Table Title
 |===
-|Project | Description |Name of Column 3
+|Project | Description
 
-|Cell in column 1, row 1
-|Cell in column 2, row 1
-|Cell in column 3, row 1
+|GT GuiaReporting, QEnergia, May. 2010
+|Extend previously developed solution for QEnergia, with reporting and analytical features.
+ Added web interface to query and view existing data about industrial automated concrete production system, allowing customer to gather metrics about the production process.
+ Featured, rich and interactive search interface with AJAX autocomplete and Hibernate Search integration.
+ Technologies: Grails, H2 Database, BIRT, jQuery, SpringSource STS, SVN
 
-|Cell in column 1, row 2
-|Cell in column 2, row 2
-|Cell in column 3, row 2
+|GT/NetPlus, Feb. 2010 - Mar. 2010
+|GT Informática, Senior Analyst Developer
+ Development of business intelligence reporting solution for Ethernet network.
+ Did requirements gathering, project documentation, programing, interfacing with networking experts, training junior developers.
+ Technologies: Spring, MySQL, BIRT,Hibernate, Log4j, SpringSource STS, SVN, Maven
+
+|Outsourcing GT/ Promosoft, Nov. 2009 - Dec. 2009
+|Outsourcing GT Informática, Senior Analyst Developer
+ Development of communications module for banking solution.
+ Started from conceptual documentation for reengineering of the communications module towards performance improvements of the overall solution.
+ My assignments where: development, team coordination, alignment with project goals, reporting progress, writing technical documentation.
+ The communication module integrates IBM/AS400 with a modern web based interface core to the business.
+ Technologies: IBM WebSphere, JTOpen, Spring, H2 Database,Hibernate, Log4j, SpringSource STS, SVN, Maven, Hudson
+
+|Outsourcing GT / Vigilarme, Oct. 2009
+|Outsourcing GT Informática, Senior Analyst Developer
+ Development of integration between Lenel OnGuard security solution and NSC Solution F1 fire alarm device panel from SECTRON.
+ Additionally did customer interface, mentoring junior developer, and writing of technical documentation for product certification by OEM providers, towards deployment at Beja Airport.
+ Technologies: VB.NET, Spring .NET, Log4Net, C++, Visual Studio, SVN, Wireshark
+
+| OutSourcing GT/ RedCats LaRedoute, May 2008 – June 2009
+| GT Informática Outsourcing, Senior Analyst Developer
+  The customer business is catalog sale, and I provided value add service by extending their innovation.
+  Did bug-fixing and extended the existing product with new features, i.e: Ajax, Integration with Payment Service Provider.
+  Provided couching of customer personal to work on the project and did mentoring of junior developers.
+  The product was core to the customer business and was made available in 9 different languages, the project consisted mainly of migrating old IBM/AS400 applications.
+  Technologies: IBM Rational Software Development Platform, Java/J2EE/JSF, HTML, Javascript/JQuery/DWR, SVN
+
+|GT Autómato, QEnergia Dec. 2008
+|QEnergia is a engineering firm providing solutions in industrial automation.
+ Extended the customer existing product, add printable invoices feature to automated production of concrete solution.
+ Interfaced with the Saia-Burgess PCD controller, using HTTP and FTP, extracted data from the controller and outputted printable PDF invoices.
+ Technologies: Java, Java Service Wrapper, Jakarta Commons Net,iText,Apache POI, Spring Framework, IzPack, Groovy, OpenOffice
+
+|Billing REFER-TELECOM Oct.  2007 – May. 2008
+|Provided support to billing processing for medium size telecom provider.
+ Performed all the tasks required to produce customer monthly invoices, collected billing records from hardware, performed configuration of billing platform, and ongoing technical support.
+ Technologies: SQL SERVER, .NET
+
 |===
-
-=== Description
-* Did 1
-* Did 2
-* Did 3
-
-=== Technologies
-Grails, H2 Database, BIRT, jQuery, SpringSource STS, SVN, Spring, MySQL, BIRT,Hibernate, Log4j, Maven
 
 ////
 == Company XPTO / Position Y
