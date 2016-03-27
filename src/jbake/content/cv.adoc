@@ -134,7 +134,12 @@ From Oct. 2007 to  Oct. 2010.
 |Extend previously developed solution for QEnergia, with reporting and analytical features.
  Added web interface to query and view existing data about industrial automated concrete production system, allowing customer to gather metrics about the production process.
  Featured, rich and interactive search interface with AJAX autocomplete and Hibernate Search integration.
- Technologies: Grails, H2 Database, BIRT, jQuery, SpringSource STS, SVN
+ Technologies: https://grails.org[Grails],
+               http://www.h2database.com/html/main.html[H2 Database],
+               http://www.eclipse.org/birt/[BIRT],
+               https://jquery.com[jQuery],
+               https://spring.io/tools[SpringSource STS],
+               https://subversion.apache.org[SVN]
 
 |GT/NetPlus, Feb. 2010 - Mar. 2010
 |GT Informática, Senior Analyst Developer
