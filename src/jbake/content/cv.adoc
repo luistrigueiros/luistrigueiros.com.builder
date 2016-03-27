@@ -23,7 +23,7 @@ From May 2015 to Present
  ** Automate the reporting of system wide configuration
 
 === Technologies
-Java/Tomcat, Ant & Gradle, Git & SVN, SOAP, Open Travel Alliance Message Exchange Protocol(OTA),MS-SQL
+Java/Tomcat, Ant & Gradle, Git & SVN, SOAP, http://www.service-architecture.com/articles/xml/opentravel_alliance_ota.html[Open Travel Alliance Message Exchange Protocol(OTA)],MS-SQL
 
 
 == Company 123.ie / Senior Java Developer
