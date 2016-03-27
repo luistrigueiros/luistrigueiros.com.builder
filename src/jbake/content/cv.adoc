@@ -132,6 +132,18 @@ From Oct. 2007 to  Oct. 2010.
 * Outsourcing GT / Vigilarme, Oct. 2009
 * OutSourcing GT/ RedCats LaRedoute, May 2008 – June 2009
 
+.Table Title
+|===
+|Project | Description |Name of Column 3
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+|Cell in column 3, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+|===
 
 === Description
 * Did 1
