@@ -281,24 +281,13 @@ From Dec. 2000 to Nov. 2004.
  Technologies: Tomcat, Struts, Velocity, Log4j, Torque, MySQL
 
 |Multimedia Messaging 2001
-|Web Mail for PDA with multimedia capabilities
- The team was composed of 2 developers, and one team leader.
- As a developer I took part in the following activities:
- - Analysis design and implementation.
- Technologies: Apache, PHP, MySQL
+|Web Mail for PDA with multimedia capabilities The team was composed of 2 developers, and one team leader.  As a developer I took part in the following activities:  - Analysis design and implementation. Technologies: Apache, PHP, MySQL
 
 |SOSMobile 2001
-|WAP based interface for Mobile Phone Technical Assistance Department.
- The team was composed of 2 developers, and one team leader.
- As a developer I took part in the following activities:
- Analysis design and implementation based on the Cocoon framework that allowed me to produce WML suitable for several mobiles.
- Technologies: Tomcat, Cocoon, IIS, SQL Server
+|WAP based interface for Mobile Phone Technical Assistance Department.  The team was composed of 2 developers, and one team leader.  As a developer I took part in the following activities:  Analysis design and implementation based on the Cocoon framework that allowed me to produce WML suitable for several mobiles. Technologies: Tomcat, Cocoon, IIS, SQL Server
 
 |SiePegasus/WapMail 2000
-|Linux based WEB/WAP Mail solution.
- The team was composed of 2 developers, and one team leader.
- As a junior developer I did PHP scripting.
- Technologies: Apache, PHP, MySQL
+|Linux based WEB/WAP Mail solution. The team was composed of 2 developers, and one team leader.As a junior developer I did PHP scripting. Technologies: Apache, PHP, MySQL
 
 
 |===
