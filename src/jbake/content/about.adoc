@@ -15,4 +15,4 @@ Currently interested in reactive non blocking applications development, NoSQL da
 * link:cv.html[Curriculum Vitae as HTML]
 * https://raw.githubusercontent.com/luistrigueiros/luistrigueiros.com.builder/master/src/jbake/content/cv.adoc[Curriculum Vitae as Text]
 
-This web site was create as a Gradle project using JBake and the https://github.com/luistrigueiros/luistrigueiros.com.builder[source code available]
+This web site was create with Gradle, JBake and http://asciidoctor.org/[Asciidoctor] and the https://github.com/luistrigueiros/luistrigueiros.com.builder[source code available at GitHub]
