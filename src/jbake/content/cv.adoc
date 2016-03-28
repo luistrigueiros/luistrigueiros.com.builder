@@ -289,8 +289,24 @@ From Dec. 2000 to Nov. 2004.
 |SiePegasus/WapMail 2000
 |Linux based WEB/WAP Mail solution. The team was composed of 2 developers, and one team leader.As a junior developer I did PHP scripting. Technologies: Apache, PHP, MySQL
 
-
 |===
+
+
+== Company GTInformatica
+From Nov. 1999 to Dec. 2000
+
+=== Projects
+* IFT Tourism Public Office Ago. -  Oct. 2000
+* MAXITEL Provisioning System Feb. – Mar.  2000
+
+=== Description
+* Develop C++ CGI to handle HTTP XML file upload.
+* Develop Client/Server application allowing customer care to control subscribers in the phone central.
+  The server part was based in C++/DCOM and accessed the phone central over a serial line connection, exposing a remote API to the VB based GUI client.
+
+=== Technologies
+IIS, C++, DCOM, VB, SQL Server
+
 
 ////
 == Company XPTO / Position Y
