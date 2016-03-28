@@ -6,7 +6,6 @@
 	<div id="wrap">
 		<div th:replace="menu.thyme::menu"/>
 		<div class="container">
-            <div th:replace="social-buttons.thyme::social-buttons" />
 			<div class="page-header">
 				<h1>Blog</h1>
 			</div>
