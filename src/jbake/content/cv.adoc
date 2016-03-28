@@ -217,6 +217,92 @@ From Nov. 2004 to Jun. 2006.
 === Technologies
 Maven, Tomcat, Spring Framework, Drools,Oracle, JUNIT, Log4j, PVCS, Perforce
 
+== Company Siemens Portugal
+From Dec. 2000 to Nov. 2004.
+
+=== Projects
+
+|===
+|Project | Description
+
+|ETHERNET MANAGER R&D WON (Wired and Optical Networks). Lisbon, Nov. 2003 to Nov. 2004
+|This project consists of a Multi-tier network management solution for Ethernet Carrier Grade networks based on J2SE/J2EE.
+ The project is composed of 4 teams; System Engineer, Server, Client and Integration, each team has one team leader and there is one project manager, this sum up to a total of 40 people.
+ Acting as a developer in the Server team I took part on the following activities:
+ Creation of team knowledge base WEB site based on PHPWIKI.
+ Elaboration of the project test strategy documentation providing recommendations o; TDD, Mock Objects, Logical UNIT, INTEGRATION UNIT, Functional UNIT, Automate GUI testing.
+ Evaluation of project technology paths; AspectJ for Logging and Tracing, AndroMDA for prototyping.
+ Elaboration of project requirements and design spec documentation.
+ Mentoring junior developers.
+ Preparation and attendance of Q&A session with Christian Bauer from Hibernate.
+ Development and test environment setup.
+ Technologies: JBoss, JMS, EJB, XDoclet, Hibernate, HSQL, JUNIT, Log4j , PHPWIK, DbUnit, Cruise Control, EasyMock, Maven
+
+|VODAFONE MS&D Platform  Lisbon, Ago. – Oct. 2003
+|I took part of the system integration team in the project bring up for VODAFONE/PT.
+ The team was composed of 10 people, mostly of Unix experts, Oracle DBA’s, and TCP/IP network administrators.
+ Acting as developer that took part in the project development phase I provided support for the system integration team and performed installation and management of Helix video Streaming Server, Weblogic.
+ Technologies: Helix RealServer,  Weblogic
+
+ |VODAFONE MS&D Platform  Munich Apr. – Jul. 2003
+ |From the technical point of view this was J2SE/JMS/JMX application deployed on a Solaris Cluster.
+  The team was composed of 10 people from several nationalities, 2 team leaders, one PM, and one System Engineer.
+  As a developer my role was development of interfaces to VODAFONE/PT billing system.
+  Technologies: Weblogic, JMS, Torque, JUNIT, Log4j
+
+|ICM/WM TC45 Berlin, Jan. – Apr.  2003
+|Testing J2ME networking API implementation of Siemens TC45 Wireless Module.
+ I was integrated in the Siemens Berlin TC45 development, which was composed of 6 Hardware/Software Engineers, and one PM.
+ My job was to develop a Sample application the “Intelligent House” using the J2ME API and Siemens TC45 API. The goal was to perform IO on incoming events such as SMS or TCP/IP connections.
+ Technologies: J2ME, TC45 SDK
+
+|Docbec  Nov. – Dec. 2002
+|Web based document management for the Quality Department. The team was composed 2 developers, one junior and one team leader. As a developer I took part in the following activates:
+* Requirements evaluation and afford estimation.
+* Development of Mailing list facility based on JavaMail API and JDNI/LADP accessing Microsoft Exchange server.
+* Development of PDF reporting facility based on XML/XSL FOP.
+* Integration of Tomcat with Siemens Intranet web server, which is IIS.
+* Technologies: IIS, Tomcat, Struts, Velocity, FOP,SQL Server, JDNI to access Exchange LADP, Castor, HSQL, Log4j
+
+|Xanthus SMS Gateway 2002
+|Web administration console for SMS Gateway. The gateway was based on Kannel open source SMS gateway and run on a Linux box.
+ The team was composed of 2 developers, one junior and one team leader.
+ As a developer I took part in the following activities:
+ Analysis design and implementation.
+ RPM installation package development.
+ Technologies: Tomcat, Struts, Velocity, Log4j, JDBC, MySQL
+
+|Mobile Office 2002
+|Web Personal information management application
+ For PDA and   WAP enabled mobile devices
+ The team was composed of 2 developers, and one team leader.
+ As a developer I took part in the following activities:
+ - Analysis design and implementation.
+ Technologies: Tomcat, Struts, Velocity, Log4j, Torque, MySQL
+
+|Multimedia Messaging 2001
+|Web Mail for PDA with multimedia capabilities
+ The team was composed of 2 developers, and one team leader.
+ As a developer I took part in the following activities:
+ - Analysis design and implementation.
+ Technologies: Apache, PHP, MySQL
+
+|SOSMobile 2001
+|WAP based interface for Mobile Phone Technical Assistance Department.
+ The team was composed of 2 developers, and one team leader.
+ As a developer I took part in the following activities:
+ Analysis design and implementation based on the Cocoon framework that allowed me to produce WML suitable for several mobiles.
+ Technologies: Tomcat, Cocoon, IIS, SQL Server
+
+|SiePegasus/WapMail 2000
+|Linux based WEB/WAP Mail solution.
+ The team was composed of 2 developers, and one team leader.
+ As a junior developer I did PHP scripting.
+ Technologies: Apache, PHP, MySQL
+
+
+|===
+
 ////
 == Company XPTO / Position Y
 From May 2014 to May 2015.
