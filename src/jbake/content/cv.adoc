@@ -72,7 +72,7 @@ Java/Tomcat Spring, Spring Web Services, Spring MVC, Spring Security, Java Crypt
 
 
 == Company Dun & Bradstreet  / Java Developer
-From Oct 2011 to Oct 203.
+From Oct 2011 to Oct 2013.
 
 === Projects
 * US Bankruptcy
