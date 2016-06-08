@@ -17,6 +17,7 @@ From May 2015 to Present
 * Currently support to core business software components, develop and extend new features following established guidelines.
 * I interface with suppliers and partners all over the globe on a technical level, and support our system users.
 * I solve issues in production and implementing new business features.
+* Implemented and proposed prototype using http://neo4j.com/[Neo4j Graph database] to manage locations data
 * I identified and implemented practical solutions to old problems and taken ownership, namely of:
  ** Tracking network IO problems in the supply chain
  ** Managing and pruning locations data.
