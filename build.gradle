@@ -17,7 +17,6 @@ buildscript {
 apply plugin: 'me.champeau.jbake'
 apply plugin: 'github-pages'
 apply plugin: 'groovy'
-apply plugin: 'application'
 
 repositories {
     jcenter()
@@ -27,7 +26,6 @@ dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.4.4'
 }
 
-mainClassName = 'blog.server'
 
 jbake {
     clearCache = true
