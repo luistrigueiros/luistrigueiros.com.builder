@@ -4,6 +4,21 @@ Luis Oscar
 :jbake-type: page
 :jbake-status: published
 
+== Education & Training
+[options="header,footer"]
+|=================
+|Course |Description
+|Bachelor in Computer Science    | 
+Degree by ISEL (Lisbon’s Engineering Institute), Started in Sept. 1998 and concluded in Dec. 2003
+|Sun Education Services    | 
+Architect and Designing J2EE Applications, Jan. 2003
+Developing Mobile Applications on J2ME Platform Using CLDC and MID Profile, Jan. 2003
+Solaris 8 System Administration I, II, Dec. 2002
+Solaris 8 TCP/IP Network Administration, Dec. 2002
+|WhatEverNet Education Services    |
+J2EE Advanced Topics, Jun/Jul. 2004, covering;
+JMX, JAAS, JMS, JNDI, EJB 2.0 CMP, BMP, J2EE Design Patterns and Best Practices, Transaction Overview, EJB Transactions, JCA, Scalability, CORBA and J2EE
+|=================
 
 == Company CarTrawler / Integration Specialist
 From May 2015 to Present
