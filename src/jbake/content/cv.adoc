@@ -27,6 +27,11 @@ JMX, JAAS, JMS, JNDI, EJB 2.0 CMP, BMP, J2EE Design Patterns and Best Practices,
 Overview, EJB Transactions, JCA, Scalability, CORBA and J2EE
 ----
 
+.SpringSource 
+----
+Core Spring Training, Jun 2009
+----
+
 == Company CarTrawler / Integration Specialist
 From May 2015 to Present
 
