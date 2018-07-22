@@ -1,6 +1,6 @@
 = Curriculum Vitae
 Luis Oscar
-2016-03-23
+2018-07-22
 :jbake-type: page
 :jbake-status: published
 
